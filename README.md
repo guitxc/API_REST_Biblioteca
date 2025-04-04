@@ -1,4 +1,4 @@
-# API de Livros  
+# API REST BIBLIOTECA 
 Uma API simples de gerenciamento de livros com Flask + MySQL.
 
 ## Tecnologias
