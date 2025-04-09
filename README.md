@@ -1,5 +1,5 @@
 # API REST BIBLIOTECA 
-Uma API simples de gerenciamento de livros com Flask + MySQL.
+Uma API REST de livros, onde se pode CONSULTAR, CRIAR e DELETAR livros utilizando Flask + MySQL.
 
 ## Tecnologias
 - Python
